@@ -16,9 +16,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-- l
+- I like that there are no tests
+- I like that we only meet once per week
+- The teachers seem pretty chill
 
 1. Numbered
 2. List
