@@ -13,8 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 #AJ deFrance's first homework
-## Header 2
-### Header 3
+
 
 - I like that there are no tests
 - I like that we only meet once per week
